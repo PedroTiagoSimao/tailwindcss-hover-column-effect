@@ -29,8 +29,3 @@ a {
     background: black;
   }
 }
-
-
-.tw {
-  transition: width 5s;
-}
