@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       transitionProperty: {
-        width: 'width',
+        'width': 'width',
       },
       backgroundImage: {
         'column1': "url('/images/media-1.jpg')",
